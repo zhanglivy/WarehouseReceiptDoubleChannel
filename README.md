@@ -1,8 +1,8 @@
-# 准备工作
-- 安装Fabric的测试网络
-- 下载本项目，将本项目放到fabric-samples的上一级目录下
-# 使用
-- 进入WarehouseReceiptDoubleChannel/fabric-samples/warehouse-receipt目录，在终端中输入```source start.sh```
+# Prepare
+- Install Fabric test-network
+- Download WarehouseReceiptDoubleChannel. Place it in upper level directory of fabric-samples.
+# Operation
+- Access to menu: WarehouseReceiptDoubleChannel/fabric-samples/warehouse-receipt, input ```source start.sh``` in ternimal 
 
 # 停止并清理
 - 进入WarehouseReceiptDoubleChannel/fabric-samples/warehouse-receipt目录，在终端中输入```./network-clean.sh```
