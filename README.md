@@ -24,7 +24,7 @@
   Then go to the next step.
   
 - Download WarehouseReceiptDoubleChannel. Place it in upper level directory of fabric-samples.
-- 
+  
 # Operation
 - Enter into directory: WarehouseReceiptDoubleChannel/fabric-samples/warehouse-receipt, input ```source start.sh``` in ternimal. 
 
