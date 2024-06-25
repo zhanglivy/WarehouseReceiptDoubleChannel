@@ -1,4 +1,4 @@
-# Prepare
+# Preparation
 - Install environments.
   | Hardware  | Software | 
   | :----: | :----: | 
