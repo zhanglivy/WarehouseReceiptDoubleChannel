@@ -23,7 +23,7 @@
 
   After sucessful operation of Fabric test network, please go to the next step.
   
-- Download WarehouseReceiptDoubleChannel. Place it in upper level directory of fabric-samples.
+- Download all file in this experiment (WarehouseReceiptDoubleChannel). And place it in upper level directory of fabric-samples.
   
 # Operation
 - Enter into directory: WarehouseReceiptDoubleChannel/fabric-samples/warehouse-receipt, input ```source start.sh``` in ternimal. 
