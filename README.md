@@ -18,10 +18,10 @@
    
 - Using the Fabric test network
 
-  Please refer to the site to install and finish the operation of fabric-test network.  
+  Please refer to the site to use Fabric test network.  
   https://hyperledger-fabric.readthedocs.io/en/release-2.5/test_network.html.
 
-  Then go to the next step.
+  After sucessful operation of Fabric test network, please go to the next step.
   
 - Download WarehouseReceiptDoubleChannel. Place it in upper level directory of fabric-samples.
   
