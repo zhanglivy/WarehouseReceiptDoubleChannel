@@ -1,5 +1,5 @@
 # Prepare
-- Install Fabric test-network
+- Install Fabric test-network (Please refer to the site to install and finish the operation of fabric-test network. https://hyperledger-fabric.readthedocs.io/en/release-2.5/test_network.html. Then go to the next step.)
 - Download WarehouseReceiptDoubleChannel. Place it in upper level directory of fabric-samples.
 # Operation
 - Enter into directory: WarehouseReceiptDoubleChannel/fabric-samples/warehouse-receipt, input ```source start.sh``` in ternimal. 
