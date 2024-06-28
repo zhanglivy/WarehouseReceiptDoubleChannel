@@ -26,7 +26,7 @@
 - Download all file in this experiment (WarehouseReceiptDoubleChannel). And place it in upper level directory of fabric-samples.
   
 # Operation
-- Enter into directory: WarehouseReceiptDoubleChannel/fabric-samples/warehouse-receipt, input ```source start.sh``` in ternimal. 
+- Enter into directory: WarehouseReceiptDoubleChannel/fabric-samples/warehouse-receipt, input ```source starter.sh``` in ternimal. 
 
 # Bring down and clean
 - Enter into directory: WarehouseReceiptDoubleChannel/fabric-samples/warehouse-receipt，input```./network-clean.sh``` in ternimal.
